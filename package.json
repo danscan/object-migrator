@@ -9,6 +9,7 @@
   "author": "Dan Scanlon",
   "license": "ISC",
   "dependencies": {
+    "debug": "^0.7.4",
     "q": "^1.0.1"
   }
 }
