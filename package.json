@@ -1,6 +1,6 @@
 {
   "name": "object-migrator",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Function factory for running async iterators on object property values.",
   "main": "index.js",
   "scripts": {
